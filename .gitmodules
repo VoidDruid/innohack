@@ -1,0 +1,12 @@
+[submodule "iot"]
+	path = iot
+	url = git@github.com:VoidDruid/innohack-iot.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/daibogh/admin-panel
+[submodule "mobile"]
+	path = mobile
+	url = git@github.com:ritchann/template-react-native-typescript.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:VoidDruid/innohack-backend.git
